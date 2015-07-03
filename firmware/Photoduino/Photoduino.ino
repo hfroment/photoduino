@@ -35,6 +35,9 @@
  *                                 before compile and upload this sketch                            *
  * ------------------------------------------------------------------------------------------------ */
 
+// Compatibility issues
+#define prog_char  char PROGMEM
+
 //
 // Language of menus:
 // - Set the language of menus in LCD
@@ -46,7 +49,7 @@
 // - "language_FR.h" for (Francais) 
 // - "language_DE.h" for (Deutsch) 
 //
-#define LANGUAGE_FILE "language_EN.h"
+#define LANGUAGE_FILE "language_FR.h"
 
 //
 // Default Camera Shutterlag:

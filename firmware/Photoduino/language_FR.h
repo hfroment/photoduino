@@ -21,7 +21,7 @@
  // Messages list                                                 "123456789012345"
 const prog_char PROGMEM MSG_LANGUAGE_CODE[] =                     "FR";
 const prog_char PROGMEM MSG_PHOTODUINO_V[] =                      "Photoduino v";
-const prog_char PROGMEM MSG_READY[] =                             "Tests OK Pret !";
+const prog_char PROGMEM MSG_READY[] =                             "Pret !";
 const prog_char PROGMEM MSG_MAIN_MENU[] =                         "Menu principal";
 const prog_char PROGMEM MSG_SYSTEM_CONFIG[] =                     "Config. systeme";
 const prog_char PROGMEM MSG_INTERVALOMETER[] =                    "Intervalometre";

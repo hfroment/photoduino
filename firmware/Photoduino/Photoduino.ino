@@ -60,7 +60,7 @@
 // - Number between 0 and 59999 in miliseconds
 // - Check your camera model at: http://www.photoduino.com/documentation/reference/cameras-shutterlag/
 //
-#define DEFAULT_SHUTTERLAG               100 // ms
+#define DEFAULT_SHUTTERLAG               59 // ms for EOS 40D
 
 // 
 // Default intercicle time:
